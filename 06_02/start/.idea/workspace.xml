@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49794caf-59e9-4ae7-8fe8-d853aa382371" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/test/Form.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/Form.java" afterDir="false" />
-    </list>
+    <list default="true" id="49794caf-59e9-4ae7-8fe8-d853aa382371" name="Default" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,9 +57,13 @@
       <pane id="PackagesPane" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "last_opened_file_path": "D:/Project/Selenium/Ex_Files_Selenium_EssT/Exercise Files/06_02/start"
+    "last_opened_file_path": "D:/Project/Selenium/Ex_Files_Selenium_EssT/Exercise Files/07_04/test"
   }
 }]]></component>
   <component name="RunManager">
