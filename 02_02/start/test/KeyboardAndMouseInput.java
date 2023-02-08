@@ -19,7 +19,7 @@ public class KeyboardAndMouseInput {
         WebElement button = driver.findElement(By.id("button"));
         button.click();
 
-
+		//quits driver
         driver.quit();
     }
 }
